@@ -1,0 +1,18 @@
+Failed purchase attempt: insufficient funds
+at 2021-11-03 19:41:15.514
+Failed purchase attempt: insufficient funds
+at 2021-11-03 19:42:08.711
+Failed purchase attempt: insufficient funds
+at 2021-11-03 19:42:09.595
+Failed purchase attempt: insufficient funds
+at 2021-11-03 19:42:10.538
+Failed purchase attempt: insufficient funds
+at 2021-11-03 19:42:11.546
+Failed purchase attempt: insufficient funds
+at 2021-11-03 19:42:12.754
+Failed purchase attempt: out of stock
+at 2021-11-03 19:42:44.362
+Failed purchase attempt: insufficient funds
+at 2021-11-03 20:58:00.401
+Failed purchase attempt: out of stock
+at 2021-11-11 11:23:18.914
